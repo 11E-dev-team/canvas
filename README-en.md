@@ -2,6 +2,12 @@
 	<a href="README.md">Русский</a> | English
 </p>
 
+# How to run the project
+- Install `docker` and `docker-compose`
+- Clone this repository to a folder of your convenience `git clone "https://github.com/11E-dev-team/canvas"`
+- Enter the project directory `cd canvas`
+- Launch the project `docker-compose up`
+
 # About the project
 Project is developing during [accelerator](https://itsolschool.ru/teams) 'Школа ИТ-решений' from 'КРОК' ('CROC') x 'brainz'
 
