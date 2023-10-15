@@ -1,6 +1,6 @@
 version: '3'
 services:
   front:
-    build: "https://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@github.com/11E-dev-team/web_app.git"
+    build: "https://github.com/11E-dev-team/web_app.git"
     ports:
       - 8080:8080
