@@ -1,0 +1,6 @@
+version: '3'
+services:
+  front:
+    build: "https://github.com/11E-dev-team/web_app.git"
+    ports:
+      - 8080:8080
